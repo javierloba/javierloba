@@ -7,7 +7,7 @@
 <hr>
 <p align="center">
   <samp>
-   Soy full-stack developer y vivo en Barcelona. Actualmente trabajo con stack MERN y trabajo cada día para adquirir nuevos conocimientos.
+   Soy full-stack developer y vivo en Barcelona. Actualmente trabajo con stack MERN y me esfuerzo día tras día para adquirir nuevos conocimientos.
   </samp>
 </p>
 
