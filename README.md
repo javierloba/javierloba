@@ -13,7 +13,7 @@
 
 
 <hr>
-<h2 align="center"> 🔭 <samp> Technologies </samp> </h2>
+<h2 align="center"> 🔭 <samp> Tecnologías </samp> </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
