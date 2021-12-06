@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Express-blue?style=for-the-badge&logo=Express&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Node.js-blue?style=for-the-badge&logo=node.js&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2  align="center"><samp> 📫 Contacta conmigo! </samp></h2>
