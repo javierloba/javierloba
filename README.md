@@ -1,7 +1,7 @@
 <h1 align="center">  
   <samp>
   Hola, soy Javier, bienvenido a mi GitHub! 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
   </samp>
   </h1> 
 <hr>
